@@ -1,7 +1,40 @@
 {
-  "name": "react-native-progressive-image",
-  "version": "1.0.4",
+  "_from": "react-native-progressive-image",
+  "_id": "react-native-progressive-image@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha1-ZAPVWWn8XEJmLY7uu1VbAWx63s4=",
+  "_location": "/react-native-progressive-image",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-progressive-image",
+    "name": "react-native-progressive-image",
+    "escapedName": "react-native-progressive-image",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-progressive-image/-/react-native-progressive-image-1.0.4.tgz",
+  "_shasum": "6403d55969fc5c42662d8eeebb555b016c7adece",
+  "_spec": "react-native-progressive-image",
+  "_where": "/Users/Vitalis/ReactProjects/HungryHunter-rn",
+  "author": {
+    "name": "Dylan Vann",
+    "email": "dylan.vann@gmail.com",
+    "url": "dylanvann.com"
+  },
+  "bugs": {
+    "url": "https://github.com/DylanVann/react-native-progressive-image/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
   "description": "Progressively load images. Loads a small thumbnail first. Includes fade and blur effects.",
+  "homepage": "https://github.com/DylanVann/react-native-progressive-image#readme",
   "keywords": [
     "android",
     "blur",
@@ -12,7 +45,11 @@
     "react-native"
   ],
   "license": "MIT",
-  "author": "Dylan Vann <dylan.vann@gmail.com> (dylanvann.com)",
   "main": "index.js",
-  "repository": "DylanVann/react-native-progressive-image"
+  "name": "react-native-progressive-image",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DylanVann/react-native-progressive-image.git"
+  },
+  "version": "1.0.4"
 }
